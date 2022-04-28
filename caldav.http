@@ -1,0 +1,5 @@
+###
+# curl -X GET -u alex:alex http://galah:5232/alex/32a980f4-ce6d-e46d-143c-2baeb2a8d7bf/
+GET http://galah:5232/alex/32a980f4-ce6d-e46d-143c-2baeb2a8d7bf/ HTTP/1.1
+Authorization: Basic YWxleDphbGV4
+Connection: Keep-Alive
